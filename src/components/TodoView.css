@@ -1,0 +1,35 @@
+
+
+h1{
+    width: 30rem;
+    padding: 20px;
+    margin-left: 20px;
+    background-color: rgb(99, 222, 253);
+    color:white;
+    border: 0.7px black dashed;
+}
+
+form {
+ padding: 20px;
+ display: flex;
+ width: 17rem;
+ justify-content:space-between;
+}
+
+form button{
+    padding: 5px;
+    background-color: rgb(178, 106, 245);
+    border-radius: 15px;
+    color: aliceblue;
+}
+
+button{
+    background-color: rgb(252, 100, 100);
+    border-radius: 15px;
+    color: aliceblue;
+    border: 0.7px black dashed;
+}
+
+input[type="text"]{
+ border: 0.7px black dashed;
+}
